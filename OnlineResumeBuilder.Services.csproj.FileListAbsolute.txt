@@ -1,0 +1,11 @@
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\bin\Debug\net8.0\OnlineResumeBuilder.Services.deps.json
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\bin\Debug\net8.0\OnlineResumeBuilder.Services.dll
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\bin\Debug\net8.0\OnlineResumeBuilder.Services.pdb
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\obj\Debug\net8.0\OnlineResumeBuilder.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\obj\Debug\net8.0\OnlineResumeBuilder.Services.AssemblyInfoInputs.cache
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\obj\Debug\net8.0\OnlineResumeBuilder.Services.AssemblyInfo.cs
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\obj\Debug\net8.0\OnlineResumeBuilder.Services.csproj.CoreCompileInputs.cache
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\obj\Debug\net8.0\OnlineResumeBuilder.Services.dll
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\obj\Debug\net8.0\refint\OnlineResumeBuilder.Services.dll
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\obj\Debug\net8.0\OnlineResumeBuilder.Services.pdb
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.Services\obj\Debug\net8.0\ref\OnlineResumeBuilder.Services.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineResumeBuilder.Web", "OnlineResumeBuilder.Web\OnlineResumeBuilder.Web.csproj", "{B43FA378-7900-40E1-B245-910F61EC819C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineResumeBuilder.DataAccess", "OnlineResumeBuilder.DataAccess\OnlineResumeBuilder.DataAccess.csproj", "{B5B712E5-F0D9-4115-9ECC-648992B366D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineResumeBuilder.Models", "OnlineResumeBuilder.Models\OnlineResumeBuilder.Models.csproj", "{BB0A4014-F55B-44B4-A769-059F2FF48F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineResumeBuilder.ViewModels", "OnlineResumeBuilder.ViewModels\OnlineResumeBuilder.ViewModels.csproj", "{EC0C3647-1A00-4611-8F7C-B09956231A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineResumeBuilder.Services", "OnlineResumeBuilder.Services\OnlineResumeBuilder.Services.csproj", "{420F0736-043B-4767-8A38-629EAAC626C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineResumeBuilder.Utilities", "OnlineResumeBuilder.Utilities\OnlineResumeBuilder.Utilities.csproj", "{FFEEA33C-45BC-41FB-9EFA-518F0C4F913F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43FA378-7900-40E1-B245-910F61EC819C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43FA378-7900-40E1-B245-910F61EC819C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43FA378-7900-40E1-B245-910F61EC819C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43FA378-7900-40E1-B245-910F61EC819C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B712E5-F0D9-4115-9ECC-648992B366D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B712E5-F0D9-4115-9ECC-648992B366D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B712E5-F0D9-4115-9ECC-648992B366D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B712E5-F0D9-4115-9ECC-648992B366D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0A4014-F55B-44B4-A769-059F2FF48F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0A4014-F55B-44B4-A769-059F2FF48F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0A4014-F55B-44B4-A769-059F2FF48F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0A4014-F55B-44B4-A769-059F2FF48F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0C3647-1A00-4611-8F7C-B09956231A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0C3647-1A00-4611-8F7C-B09956231A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0C3647-1A00-4611-8F7C-B09956231A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0C3647-1A00-4611-8F7C-B09956231A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420F0736-043B-4767-8A38-629EAAC626C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420F0736-043B-4767-8A38-629EAAC626C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420F0736-043B-4767-8A38-629EAAC626C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420F0736-043B-4767-8A38-629EAAC626C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEEA33C-45BC-41FB-9EFA-518F0C4F913F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEEA33C-45BC-41FB-9EFA-518F0C4F913F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEEA33C-45BC-41FB-9EFA-518F0C4F913F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEEA33C-45BC-41FB-9EFA-518F0C4F913F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C0D3DD-F73D-466D-B34F-DF25913CC320}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.DataAccess\\OnlineResumeBuilder.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.DataAccess\\OnlineResumeBuilder.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.DataAccess\\OnlineResumeBuilder.DataAccess.csproj",
+        "projectName": "OnlineResumeBuilder.DataAccess",
+        "projectPath": "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.DataAccess\\OnlineResumeBuilder.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Md Kashif Ali\\.nuget\\packages\\",
+        "outputPath": "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Md Kashif Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.Models\\OnlineResumeBuilder.Models.csproj": {
+                "projectPath": "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.Models\\OnlineResumeBuilder.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.Models\\OnlineResumeBuilder.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.Models\\OnlineResumeBuilder.Models.csproj",
+        "projectName": "OnlineResumeBuilder.Models",
+        "projectPath": "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.Models\\OnlineResumeBuilder.Models.csproj",
+        "packagesPath": "C:\\Users\\Md Kashif Ali\\.nuget\\packages\\",
+        "outputPath": "D:\\OnlineResumeBuilder\\OnlineResumeBuilder.Web\\OnlineResumeBuilder.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Md Kashif Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

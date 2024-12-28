@@ -1,0 +1,15 @@
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\bin\Debug\net8.0\OnlineResumeBuilder.DataAccess.deps.json
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\bin\Debug\net8.0\OnlineResumeBuilder.DataAccess.dll
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\bin\Debug\net8.0\OnlineResumeBuilder.DataAccess.pdb
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\bin\Debug\net8.0\OnlineResumeBuilder.Models.dll
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\bin\Debug\net8.0\OnlineResumeBuilder.Models.pdb
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\OnlineResumeBuilder.DataAccess.csproj.AssemblyReference.cache
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\OnlineResumeBuilder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\OnlineResumeBuilder.DataAccess.AssemblyInfoInputs.cache
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\OnlineResumeBuilder.DataAccess.AssemblyInfo.cs
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\OnlineResumeBuilder.DataAccess.csproj.CoreCompileInputs.cache
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\OnlineRe.EEB51663.Up2Date
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\OnlineResumeBuilder.DataAccess.dll
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\refint\OnlineResumeBuilder.DataAccess.dll
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\OnlineResumeBuilder.DataAccess.pdb
+D:\OnlineResumeBuilder\OnlineResumeBuilder.Web\OnlineResumeBuilder.DataAccess\obj\Debug\net8.0\ref\OnlineResumeBuilder.DataAccess.dll
